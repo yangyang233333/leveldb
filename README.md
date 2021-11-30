@@ -1,3 +1,5 @@
+# Forked from https://github.com/dain/leveldb
+
 # LevelDB in Java
 
 This is a rewrite (port) of [LevelDB](http://code.google.com/p/leveldb/) in
